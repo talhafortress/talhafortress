@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @talhafortress
-- 👀 I’m interested in new techs
-- 🌱 I’m currently learning .net
-- 💞️ I’m looking to collaborate on AI
+- Hi, I’m @talhafortress
+
 
 <!---
 talhafortress/talhafortress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
